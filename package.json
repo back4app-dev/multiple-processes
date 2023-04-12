@@ -1,0 +1,12 @@
+{
+  "name": "multiple-processes",
+  "version": "1.0.0",
+  "description": "some content",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
